@@ -5,18 +5,18 @@ This project is an educational tool for myself to learn npm, webpack and potenti
 `npm run build`<br>
 `npm run start:dev`
 
-##### Dev Dependencies
-###### - html-loader
-###### - html-webpack-plugin
-###### - webpack
-###### - webpack-cli
-###### - webpack-dev-server
+#### Dev Dependencies
+- html-loader
+- html-webpack-plugin
+- webpack
+- webpack-cli
+- webpack-dev-server
 
-##### Dependencies
-###### - bootstrap
-###### - css-loader
-###### - font-awesome
-###### - jquery
-###### - popper.js
-###### - style-loader
-###### - vue
+#### Dependencies
+- bootstrap
+- css-loader
+- font-awesome
+- jquery
+- popper.js
+- style-loader
+- vue
