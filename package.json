@@ -1,0 +1,35 @@
+{
+  "name": "npm_webpack4tut",
+  "version": "1.0.0",
+  "description": "Learning to build projects using npm and webpack 4",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start:dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLe27/npm-webpack4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLe27/npm-webpack4/issues"
+  },
+  "homepage": "https://github.com/LLe27/npm-webpack4#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "css-loader": "^2.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.0",
+    "popper.js": "^1.15.0",
+    "style-loader": "^0.23.1"
+  },
+  "devDependencies": {
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
